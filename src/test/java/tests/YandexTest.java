@@ -72,8 +72,8 @@ public class YandexTest extends DriverAdd {
 
 
     @Test
-    @Link(name = "Яндекс Маркет", url = "https://market.yandex.ru")
-    @Owner(value = "Яровой Денис")
+    @Link(name = "Yandex Market", url = "https://market.yandex.ru")
+    @Owner(value = "Yarovoy Denis")
     @DisplayName("Checking Yandex Market display")
     @Description("Navigate to the Yandex Market page, click the catalog button, select all for gaming, " +
             "Xbox, gaming consoles, click the heart button, go to the favorites page, remove the product, " +
